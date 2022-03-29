@@ -36,8 +36,6 @@ for i in range(len(eClasses)):
 
 print(end - start)
 
-
-print('isomorphism count')
 with open(dir) as f:
     L2 = load_graph(f, read_list=True)
 

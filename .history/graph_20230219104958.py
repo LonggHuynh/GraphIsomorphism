@@ -1,7 +1,8 @@
 """
 This is a module for working with directed and undirected multigraphs.
 """
-
+# version: 29-01-2015, Paul Bonsma
+# version: 01-02-2017, Pieter Bos, Tariq Bontekoe
 import math
 from collections import deque
 from typing import List, Union, Set

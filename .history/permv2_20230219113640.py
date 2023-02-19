@@ -6,7 +6,8 @@ Remark: composition / multiplication is reversed compared to the earlier version
 (ADS practicum 0): Now P*Q means apply Q first, then P.
 """
 
-
+# permv2: based on permv2SOL / perm2
+# Paul Bonsma, 18-03-2015.
 
 testvalidity = True
 # Check whether permutations are initialized correctly
